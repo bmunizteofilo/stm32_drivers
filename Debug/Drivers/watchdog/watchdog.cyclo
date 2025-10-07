@@ -1,0 +1,10 @@
+C:/Users/Bruno/STM32CubeIDE/Workspace_drivers_f070/drivers_stm32f070/Drivers/core_m0.h:66:20:nvic_enable_irq	1
+../Drivers/watchdog/watchdog.c:9:19:iwdg_wait_clear	3
+../Drivers/watchdog/watchdog.c:17:6:iwdg_bm_pick	10
+../Drivers/watchdog/watchdog.c:43:6:iwdg_bm_init_start	5
+../Drivers/watchdog/watchdog.c:75:6:wwdg_bm_init	4
+../Drivers/watchdog/watchdog.c:103:24:wwdg_tick_hz	1
+../Drivers/watchdog/watchdog.c:107:10:wwdg_bm_time_to_ewi_ms	3
+../Drivers/watchdog/watchdog.c:114:10:wwdg_bm_time_window_open_ms	6
+../Drivers/watchdog/watchdog.c:126:10:wwdg_bm_pick_by_ewi	17
+../Drivers/watchdog/watchdog.c:169:6:WWDG_IRQHandler	2

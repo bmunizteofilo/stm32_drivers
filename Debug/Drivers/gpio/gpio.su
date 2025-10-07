@@ -1,0 +1,13 @@
+../Drivers/gpio/gpio.c:6:6:gpio_enable_port_clock	16	static
+../Drivers/gpio/gpio.c:14:16:gpio_port_id	16	static
+../Drivers/gpio/gpio.c:24:6:gpio_pin_init	32	static
+../Drivers/gpio/gpio.c:47:6:gpio_pin_set_altfunc	32	static
+../Drivers/gpio/gpio.c:53:6:gpio_lock_pin	24	static
+../Drivers/gpio/gpio.c:71:6:gpio_exti_enable_clock	8	static
+../Drivers/gpio/gpio.c:75:6:gpio_exti_route	32	static
+../Drivers/gpio/gpio.c:84:6:gpio_exti_configure_line	32	static
+../Drivers/gpio/gpio.c:100:6:gpio_exti_set_callback	16	static
+../Drivers/gpio/gpio.c:106:20:exti_handle_line	24	static
+../Drivers/gpio/gpio.c:114:6:EXTI0_1_IRQHandler	8	static
+../Drivers/gpio/gpio.c:119:6:EXTI2_3_IRQHandler	8	static
+../Drivers/gpio/gpio.c:124:6:EXTI4_15_IRQHandler	16	static

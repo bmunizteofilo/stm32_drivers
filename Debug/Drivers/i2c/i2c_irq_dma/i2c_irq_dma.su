@@ -1,0 +1,16 @@
+C:/Users/Bruno/STM32CubeIDE/Workspace_drivers_f070/drivers_stm32f070/Drivers/core_m0.h:66:20:nvic_enable_irq	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:8:20:i2c_enable_clock	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:11:23:i2c_check_error_and_clear	24	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:20:20:i2c_issue_stop	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:22:13:i2c_prog_cr2_chunk	32	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:37:13:i2c_finish	24	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:51:13:i2c_dma_start_tx	56	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:75:13:i2c_dma_start_rx	56	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:99:6:i2c_irqdma_init	40	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:131:6:i2c_irqdma_set_dma_channels	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:138:22:min_sz	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:140:6:i2c_irqdma_start	56	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:193:6:i2c_irqdma_wait_done	16	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:200:13:i2c_isr_core	88	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:295:6:I2C1_IRQHandler	8	static
+../Drivers/i2c/i2c_irq_dma/i2c_irq_dma.c:296:6:I2C2_IRQHandler	8	static

@@ -1,0 +1,8 @@
+../Drivers/spi/spi_poll/spi_poll.c:4:20:wait_flag_set	3
+../Drivers/spi/spi_poll/spi_poll.c:8:20:wait_flag_clr	3
+../Drivers/spi/spi_poll/spi_poll.c:14:13:spi_enable_clock	2
+../Drivers/spi/spi_poll/spi_poll.c:20:6:spi_poll_init	10
+../Drivers/spi/spi_poll/spi_poll.c:75:6:spi_poll_clear_errors	1
+../Drivers/spi/spi_poll/spi_poll.c:92:10:spi_poll_transfer	16
+../Drivers/spi/spi_poll/spi_poll.c:144:10:spi_poll_write	1
+../Drivers/spi/spi_poll/spi_poll.c:148:10:spi_poll_read	1

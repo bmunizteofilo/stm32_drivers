@@ -1,0 +1,13 @@
+../Drivers/i2c/i2c_poll/i2c_poll.c:5:20:tock	16	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:8:6:i2c_poll_enable_clock	16	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:12:6:i2c_poll_reset	16	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:19:6:i2c_poll_init	24	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:49:13:wait_flag_set	24	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:55:13:wait_flag_clr	24	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:63:13:i2c_start7	32	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:81:13:i2c_restart7	32	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:102:20:i2c_send_stop	16	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:107:13:check_and_clear_errors	24	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:118:6:i2c_poll_write	72	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:168:6:i2c_poll_read	72	static
+../Drivers/i2c/i2c_poll/i2c_poll.c:212:6:i2c_poll_write_read	80	static

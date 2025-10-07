@@ -1,0 +1,10 @@
+../Drivers/usart/usart_poll/usart_poll.c:4:20:wait_flag_set	3
+../Drivers/usart/usart_poll/usart_poll.c:20:13:usart_enable_clock	3
+../Drivers/usart/usart_poll/usart_poll.c:26:13:usart_set_baud	2
+../Drivers/usart/usart_poll/usart_poll.c:44:6:usart_poll_init	5
+../Drivers/usart/usart_poll/usart_poll.c:80:6:usart_poll_write_byte	3
+../Drivers/usart/usart_poll/usart_poll.c:88:10:usart_poll_write	3
+../Drivers/usart/usart_poll/usart_poll.c:101:10:usart_poll_write_str	3
+../Drivers/usart/usart_poll/usart_poll.c:113:6:usart_poll_read_byte	6
+../Drivers/usart/usart_poll/usart_poll.c:134:10:usart_poll_read	3
+../Drivers/usart/usart_poll/usart_poll.c:146:6:usart_poll_clear_errors	1

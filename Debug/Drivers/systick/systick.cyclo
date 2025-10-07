@@ -1,0 +1,16 @@
+../Drivers/systick/systick.c:8:20:systick_set_priority_raw	3
+../Drivers/systick/systick.c:19:13:systick_program_reload	9
+../Drivers/systick/systick.c:50:20:systick_apply_irq	3
+../Drivers/systick/systick.c:58:6:systick_init_hz	2
+../Drivers/systick/systick.c:68:6:systick_init_ms	2
+../Drivers/systick/systick.c:77:6:systick_init_us	2
+../Drivers/systick/systick.c:86:6:systick_update_hz	1
+../Drivers/systick/systick.c:89:6:systick_update_ms	2
+../Drivers/systick/systick.c:94:6:systick_update_us	2
+../Drivers/systick/systick.c:100:6:systick_set_callback	1
+../Drivers/systick/systick.c:104:6:systick_get_info	2
+../Drivers/systick/systick.c:109:10:systick_ticks64	1
+../Drivers/systick/systick.c:114:6:systick_delay_ms	5
+../Drivers/systick/systick.c:126:6:systick_delay_us	2
+../Drivers/systick/systick.c:132:6:systick_isr	2
+../Drivers/systick/systick.c:139:6:SysTick_Handler	1

@@ -1,0 +1,14 @@
+C:/Users/Bruno/STM32CubeIDE/Workspace_drivers_f070/drivers_stm32f070/Drivers/core_m0.h:66:20:nvic_enable_irq	1
+../Drivers/dma/dma_router.c:11:36:dma_ch_ptr	7
+../Drivers/dma/dma_router.c:21:20:dma_router_clear_all_flags	1
+../Drivers/dma/dma_router.c:26:20:dispatch_ch	6
+../Drivers/dma/dma_router.c:39:6:dma_router_init	2
+../Drivers/dma/dma_router.c:53:6:dma_router_attach	3
+../Drivers/dma/dma_router.c:60:6:dma_router_detach	3
+../Drivers/dma/dma_router.c:69:6:dma_router_start	11
+../Drivers/dma/dma_router.c:109:6:dma_router_stop	3
+../Drivers/dma/dma_router.c:117:6:dma_router_set_length	3
+../Drivers/dma/dma_router.c:123:10:dma_router_get_remaining	3
+../Drivers/dma/dma_router.c:130:6:DMA1_CH1_IRQHandler	1
+../Drivers/dma/dma_router.c:134:6:DMA1_Channel2_3_IRQHandler	1
+../Drivers/dma/dma_router.c:139:6:DMA1_Channel4_5_IRQHandler	1
